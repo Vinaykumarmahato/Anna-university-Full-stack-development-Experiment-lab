@@ -1,0 +1,31 @@
+GitHub Desktop App Data Folder Ko Delete Karein:
+
+Command Prompt mein ye command likhein aur Enter dabayein:
+bash
+Copy code
+rmdir /s /q "%APPDATA%\GitHub Desktop"
+Ye command "GitHub Desktop" folder ko delete kar dega jo AppData ke andar hota hai.
+
+GitHub Local Data Folder Ko Delete Karein:
+
+Command Prompt mein ye command likhein aur Enter dabayein:
+bash
+Copy code
+rmdir /s /q "%LOCALAPPDATA%\GitHubDesktop"
+Ye command "GitHubDesktop" folder ko delete kar dega jo Local AppData ke andar hota hai.
+
+Saved Credentials Ko Remove Karein (Agar Zarurat Ho):
+
+CMD mein ye command likhein aur Enter dabayein:
+Copy code
+rundll32.exe keymgr.dll,KRShowKeyMgr
+Is command se Credential Manager khulega jahaan se aap GitHub se related credentials ko delete kar sakte hain.
+
+Computer Ko Restart Karein:
+
+Ye saare steps follow karne ke baad, apne computer ko restart karein.
+In steps ko follow karne ke baad, aapka GitHub Desktop App Data completely delete ho jaayega. Yaad rahe ki CMD mein koi bhi command daalte waqt dhyan rakhein, galat command daalne se system mein problem ho sakti hai.
+
+
+
+
