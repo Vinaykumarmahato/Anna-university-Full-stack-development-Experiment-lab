@@ -7,13 +7,20 @@ Welcome to the repository for the Anna University Full Stack Development Experim
 
 Welcome to my awesome project! Here are some important links:
 
-- **[Documentation](https://github.com/ADVindiancoder/Anna-university-Full-stack-development-Experiment-lab-/blob/main/full%20stack%20lab.docx):** Explore the project's documentation in the "docs" folder.
-- **[Issue Tracker](https://github.com/ADVindiancoder/BreadcrumbsAnna-university-Full-stack-development-Experiment-lab-
-/issues):** Report issues or contribute to discussions on our GitHub Issue Tracker.
-- **[Contribution Guidelines](CONTRIBUTING.md):** Follow our contribution guidelines outlined in the "CONTRIBUTING.md" file.
-- **[Live Demo](https://vinaykumarnew.netlify.app/)):** Check out the live demo of the portfolio.
+- **[Documentation](https://github.com/ADVindiancoder/Anna-university-Full-stack-development-Experiment-lab-/blob/main/full%20stack%20lab.docx):**
+  Explore the project's documentation in the "docs" folder.
+
+- **[Issue Tracker](https://github.com/ADVindiancoder/BreadcrumbsAnna-university-Full-stack-development-Experiment-lab-/issues):**
+  Report issues or contribute to discussions on our GitHub Issue Tracker.
+
+- **[Contribution Guidelines](CONTRIBUTING.md):**
+  Follow our contribution guidelines outlined in the "CONTRIBUTING.md" file.
+
+- **[Live Demo](https://advindiancoder.github.io/Vinay-Kumar---Personal-Portfolio-Website/):**
+  Check out the live demo of 10+ projects and all my social media profiles.
 
 Feel free to navigate through these links to learn more about the project and get involved!
+
 
 
 ## 🌈 Projects Overview:
