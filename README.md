@@ -6,7 +6,7 @@ Welcome to the repository for the Anna University Full Stack Development Experim
 
 Welcome to my awesome project! Here are some important links:
 
-- **[Documentation](docs/):** Explore the project's documentation in the "docs" folder.
+- **[Documentation](https://github.com/ADVindiancoder/Anna-university-Full-stack-development-Experiment-lab-/blob/main/full%20stack%20lab.docx):** Explore the project's documentation in the "docs" folder.
 - **[Issue Tracker](https://github.com/ADVindiancoder/BreadcrumbsAnna-university-Full-stack-development-Experiment-lab-
 /issues):** Report issues or contribute to discussions on our GitHub Issue Tracker.
 - **[Contribution Guidelines](CONTRIBUTING.md):** Follow our contribution guidelines outlined in the "CONTRIBUTING.md" file.
