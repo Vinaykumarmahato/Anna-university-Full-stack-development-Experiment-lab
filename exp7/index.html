@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Project Management Dashboard</title>
+</head>
+<body>
+    <header>
+        <h1>Project Management Dashboard</h1>
+    </header>
+
+    <section id="task-form">
+        <h2>Add New Task</h2>
+        <form id="task-application-form">
+            <label for="taskName">Task Name:</label>
+            <input type="text" id="taskName" required>
+
+            <label for="taskStatus">Task Status:</label>
+            <select id="taskStatus" required>
+                <option value="Pending">Pending</option>
+                <option value="In Progress">In Progress</option>
+                <option value="Completed">Completed</option>
+            </select>
+
+            <button type="button" onclick="addTask()">Add Task</button>
+        </form>
+    </section>
+
+    <section id="task-list">
+        <h2>Task List</h2>
+        <ul id="tasks">
+            <!-- Task items will be displayed here -->
+        </ul>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
