@@ -2,6 +2,19 @@
 
 Welcome to the repository for the Anna University Full Stack Development Experiment Lab! 🚀 Here, we embark on a colorful journey exploring various web development projects to enhance our skills and understanding of full-stack technologies.
 
+# My Awesome Project
+
+Welcome to my awesome project! Here are some important links:
+
+- **[Documentation](docs/):** Explore the project's documentation in the "docs" folder.
+- **[Issue Tracker](https://github.com/ADVindiancoder/BreadcrumbsAnna-university-Full-stack-development-Experiment-lab-
+/issues):** Report issues or contribute to discussions on our GitHub Issue Tracker.
+- **[Contribution Guidelines](CONTRIBUTING.md):** Follow our contribution guidelines outlined in the "CONTRIBUTING.md" file.
+- **[Live Demo](https://vinaykumarnew.netlify.app/)):** Check out the live demo of the portfolio.
+
+Feel free to navigate through these links to learn more about the project and get involved!
+
+
 ## 🌈 Projects Overview:
 
 1. **Portfolio Website:**
